@@ -60,3 +60,4 @@ https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environme
 `scripts`: Code that is 'ready enough' \
 `plots`:  Graphics that should go into the 6-8 page paper and/or the presentation board.
 `data`: The data being analyzed.
+
