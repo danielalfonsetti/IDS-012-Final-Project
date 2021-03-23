@@ -1,28 +1,30 @@
 # IDS-012 Final Project
 
+
 ## Setting Up
 
 Install this repo via
 
 ```bash
-$ git clone https://github.com/danielalfonsetti/IDS-012-Final-Project.git
+git clone https://github.com/danielalfonsetti/IDS-012-Final-Project.git
 ```
 
 After cloning, cd into the directory. 
 ```bash 
-$ cd IDS-012-Final-Project
+cd IDS-012-Final-Project
 ```
 
 ## Installing Python Requirements + Python Virtual Environments
 
+Currently using Python 3.9.2.
 The python requirements for this project be found in `requirements.txt`.  
 
 ----
 (Optional) You may want to create your own local python virtual environment for this project, so that python package installations downloaded for this project are only used in this project. To create the new environment and then activate it use
 
 ```bash
-$ python3 -m venv venv 
-$ source ./venv/bin/activate
+python3 -m venv venv 
+source ./venv/bin/activate
 ```
 -----
 
@@ -56,5 +58,5 @@ https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environme
 
 `misc`: Feel free to put experiments/in-progress code in , and once they are ready enough, move them to `scripts`. \
 `scripts`: Code that is 'ready enough' \
-`plots`:  Graphics that should go into the 5 page paper and/or the presentation board.
-
+`plots`:  Graphics that should go into the 6-8 page paper and/or the presentation board.
+`data`: The data being analyzed.
